@@ -1,0 +1,19 @@
+# Build artifacts
+bin/
+obj/
+Library/
+
+# Local config / pid
+*.pid
+
+# Temp & backup
+*.off
+*.bak*
+*.tmp
+
+# Rider/VSCode/VS
+.idea/
+.vscode/
+*.user
+*.suo
+*.userprefs
