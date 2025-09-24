@@ -1,4 +1,4 @@
-# FpsMeter — UIManager Registered UI (JP/EN)
+# GridOverlay — UIManager Registered UI (JP/EN)
 
 ## 方針 / Policy
 - 反射や set_url 乗っ取りで既存 UIView を差し替えない。
